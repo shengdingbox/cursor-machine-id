@@ -1,9 +1,9 @@
 {
-    "name": "cursor-patch",
-    "displayName": "Cursor Patch",
-    "publisher": "cursor-patch",
+    "name": "cursor_machine_id",
+    "displayName": "cursor machine id",
+    "publisher": "cursor_machine_id",
     "description": "A VS Code extension to patch Cursor editor",
-    "version": "0.0.4",
+    "version": "0.45.0",
     "engines": {
         "vscode": "^1.93.0"
     },
@@ -14,7 +14,7 @@
     "main": "./extension.js",
     "contributes": {
         "configuration": {
-            "title": "Cursor Patch",
+            "title": "cursor machine id",
             "properties": {
                 "cursorPatch.storagePath": {
                     "type": "string",
@@ -30,7 +30,7 @@
         },
         "commands": [
             {
-                "command": "cursor-patch.patch",
+                "command": "cursor_machine_id.patch",
                 "title": "Cursor: Patch Machine ID",
                 "category": "Cursor"
             }
@@ -40,7 +40,7 @@
         "lint": "eslint .",
         "pretest": "npm run lint",
         "test": "node ./test/runTest.js",
-        "package": "vsce package --baseContentUrl https://raw.githubusercontent.com/chengazhen/cursor-patch/main",
+        "package": "vsce package --baseContentUrl https://raw.githubusercontent.com/shengdingbox/cursor_machine_id/master",
         "publish": "vsce publish"
     },
     "devDependencies": {
@@ -54,6 +54,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/chengazhen/cursor-patch.git"
+        "url": "https://github.com/shengdingbox/cursor_machine_id.git"
     }
 }

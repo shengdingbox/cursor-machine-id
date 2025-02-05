@@ -128,7 +128,7 @@ async function patchCursorGetMachineId() {
 
         vscode.window.showInformationMessage('Cursor 补丁应用成功！');
 
-        vscode.window.showInformationMessage('github: https://github.com/chengazhen/cursor-patch');
+        vscode.window.showInformationMessage('github: https://github.com/shengdingbox/cursor_machine_id');
     } catch (error) {
         vscode.window.showErrorMessage(`错误: ${error.message}`);
         throw error;
@@ -137,7 +137,7 @@ async function patchCursorGetMachineId() {
 
 // 注册命令
 function activate(context) {
-    let disposable = vscode.commands.registerCommand('cursor-patch.patch', async () => {
+    let disposable = vscode.commands.registerCommand('cursor_machine_id.patch', async () => {
         try {
             await patchCursorGetMachineId();
         } catch (error) {
