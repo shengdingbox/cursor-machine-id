@@ -1,4 +1,6 @@
-# [cursor_machine_id](https://github.com/shengdingbox/cursor_machine_id)
+# 1.程序使用
+  下载 CurosrPro ,执行就可以
+# 2.插件使用[cursor_machine_id](https://github.com/shengdingbox/cursor_machine_id)
 
 Cursor新用户注册即可享受14天的免费试用期，50 个慢速premium模型使用，200 次cursor-small使用和2000 次完成使用。
 现在Cursor暂时还没有加入手机验证，ip检测等
