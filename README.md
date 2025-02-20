@@ -72,7 +72,7 @@ cursor无限额度，可以无限次使用cursor的自动提示补全和代码�
 ```
 右击 CursorPro.exe，使用管理员权限运行
 ```
-![QQ_1739870692591.png](https://cdn.nlark.com/yuque/0/2025/png/52506830/1739870888411-4f3ac254-e027-4f18-96f7-27ce673a08c3.png?x-oss-process=image%2Fformat%2Cwebp)
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/WX20250220-152303@2x.png)
 
 
 ### Linux / Mac
