@@ -1,5 +1,7 @@
 # 20250220更新下载地址,github限制大文件，下载地址统一修改为
 https://cursoracct.wgets.org/
+cursor无限额度，可以无限次使用cursor的自动提示补全和代码生成,无需换账号，一键执行可试用，注册得500额度 ，https://cursoracct.wgets.org/
+有问题加我微信吧  shengdingbox
 # 新版本网卡mac地址修改
   2025.2.14更新，新版本会校验网卡mac地址，所以需要修改mac地址
   ~~~ cmd
@@ -70,7 +72,7 @@ https://cursoracct.wgets.org/
 ```
 右击 CursorPro.exe，使用管理员权限运行
 ```
-
+![QQ_1739870692591.png](https://cdn.nlark.com/yuque/0/2025/png/52506830/1739870888411-4f3ac254-e027-4f18-96f7-27ce673a08c3.png?x-oss-process=image%2Fformat%2Cwebp)
 
 
 ### Linux / Mac
