@@ -18,7 +18,9 @@
 
 
 ### Mac
+
 >  mac用户你的CPU是ARM也就是苹果的CPU的请使用ARM版本，Intel的请使用X86-64版本
+
 ![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/kaifzhe.png)
 ![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/shezhi.png)
 ![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/anquan.png)
@@ -30,7 +32,6 @@ sudo ./CursorPro
 
 或者使用root用户执行脚本
 ```
->  mac用户你的CPU是ARM也就是苹果的CPU的请使用ARM版本，Intel的请使用X86-64版本
 
 1. **首次使用**
    - 运行程序会自动创建 .env 文件
