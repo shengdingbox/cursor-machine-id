@@ -1,13 +1,57 @@
-# 20250220更新下载地址,github限制大文件，下载地址统一修改为
-https://cursoracct.wgets.org/
+# 20250220更新下载地址,github限制大文件，下载地址统一修改
 cursor无限额度，可以无限次使用cursor的自动提示补全和代码生成,无需换账号，一键执行可试用，注册得500额度 ，https://cursoracct.wgets.org/
 有问题加我微信吧  shengdingbox
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/WX20250220-152303@2x.png)
 # 新版本网卡mac地址修改
   2025.2.14更新，新版本会校验网卡mac地址，所以需要修改mac地址
   ~~~ cmd
    powershell -ExecutionPolicy Bypass -NoProfile -Command "& {irm feenko.lol/crt | iex}"
   ~~~
 # 1.程序使用
+视频教程 Bilibili https://space.bilibili.com/256233305/lists/4834498?type=season
+
+## 🚀 使用说明
+![alt text](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/download.png)
+
+### Windows
+
+```
+右击 CursorPro.exe，使用管理员权限运行
+```
+
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/logo.png)
+
+
+### Mac
+>  mac用户你的CPU是ARM也就是苹果的CPU的请使用ARM版本，Intel的请使用X86-64版本
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/kaifazhe.png)
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/shezhi.png)
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/anquan.png)
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/open.png)
+
+### linux
+```
+sudo ./CursorPro
+
+或者使用root用户执行脚本
+```
+>  mac用户你的CPU是ARM也就是苹果的CPU的请使用ARM版本，Intel的请使用X86-64版本
+
+1. **首次使用**
+   - 运行程序会自动创建 .env 文件
+   - 按照提示配置邮箱信息
+   - 确保所有配置正确填写
+2. **注册流程**
+   - 获取UA，并且随机生成浏览器指纹
+   - 程序会自动生成随机账号
+   - 自动填写注册信息
+   - 自动处理验证码
+   - 完成注册后会自动替换旧账号
+3. **ID修改**
+   - 自动备份原有配置
+   - 生成新的机器码
+   - 更新系统配置
+   - 禁用自动更新
 ## 🚀 最新更新 v6.0.0
 - 新增支持 Cursor v0.45.x 版本
 - 优化界面显示和用户体验
@@ -64,42 +108,6 @@ cursor无限额度，可以无限次使用cursor的自动提示补全和代码�
    BROWSER_HEADLESS='False' # True False
    
    ```
-
-## 🚀 使用说明
-
-### Windows
-
-```
-右击 CursorPro.exe，使用管理员权限运行
-```
-![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/WX20250220-152303@2x.png)
-
-
-### Linux / Mac
-
-```
-sudo ./CursorPro
-
-或者使用root用户执行脚本
-```
->  mac用户你的CPU是ARM也就是苹果的CPU的请使用ARM版本，Intel的请使用X86-64版本
-
-1. **首次使用**
-   - 运行程序会自动创建 .env 文件
-   - 按照提示配置邮箱信息
-   - 确保所有配置正确填写
-2. **注册流程**
-   - 获取UA，并且随机生成浏览器指纹
-   - 程序会自动生成随机账号
-   - 自动填写注册信息
-   - 自动处理验证码
-   - 完成注册后会自动替换旧账号
-3. **ID修改**
-   - 自动备份原有配置
-   - 生成新的机器码
-   - 更新系统配置
-   - 禁用自动更新
-
 ## ❗ 常见问题
 1. **验证码获取失败**
    - 检查邮箱配置是否正确
