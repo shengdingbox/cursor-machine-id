@@ -1,12 +1,7 @@
 # 20250220更新下载地址,github限制大文件，下载地址统一修改
-cursor无限额度，可以无限次使用cursor的自动提示补全和代码生成,无需换账号，一键执行可试用，注册得500额度 ，https://cursoracct.wgets.org/
+## cursor无限额度，可以无限次使用cursor的自动提示补全和代码生成,无需换账号，一键执行可试用，注册得500额度 ，https://cursoracct.wgets.org/
 有问题加我微信吧  shengdingbox
 ![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/WX20250220-152303@2x.png)
-# 新版本网卡mac地址修改
-  2025.2.14更新，新版本会校验网卡mac地址，所以需要修改mac地址
-  ~~~ cmd
-   powershell -ExecutionPolicy Bypass -NoProfile -Command "& {irm feenko.lol/crt | iex}"
-  ~~~
 # 1.程序使用
 视频教程 Bilibili https://space.bilibili.com/256233305/lists/4834498?type=season
 
@@ -24,7 +19,7 @@ cursor无限额度，可以无限次使用cursor的自动提示补全和代码�
 
 ### Mac
 >  mac用户你的CPU是ARM也就是苹果的CPU的请使用ARM版本，Intel的请使用X86-64版本
-![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/kaifazhe.png)
+![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/kaifzhe.png)
 ![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/shezhi.png)
 ![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/anquan.png)
 ![QQ_1739870692591.png](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/open.png)
