@@ -6,6 +6,7 @@
 视频教程 Bilibili https://space.bilibili.com/256233305/lists/4834498?type=season
 
 ## 🚀 使用说明
+## 下载地址  https://github.com/shengdingbox/cursor-machine-id/releases/tag/v0.45
 ![alt text](https://g.wgets.org/https://raw.githubusercontent.com/shengdingbox/cursor-machine-id/refs/heads/master/download.png)
 
 ### Windows
